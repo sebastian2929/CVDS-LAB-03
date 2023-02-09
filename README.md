@@ -13,10 +13,10 @@ Laboratorio 3
    * No exista el vuelo
   2. En la siguiente tabla enumere un conjunto de clases de equivalencia que -según usted-creen una buena división del conjunto de datos de entrada de la función anterior:
   
-  | Numero| Clase Equivalencia| Resultado correcto/incorrecto |
-  |:-------------------:|---|---|---|---|
-  | Row1 | | |
-  | Row2 | | |
+| Numero| Clase Equivalencia| Resultado correcto/incorrecto | | | |
+|:-------------------:|---|---|---|---|
+| Row1 | | | | |
+| Row2 | | | | |
 
 
 
