@@ -15,8 +15,8 @@ Laboratorio 3
   
   | Numero| Clase Equivalencia| Resultado correcto/incorrecto |
   |:-------------------:|---|---|---|---|
-  | Row1 | | 
-  | Row2 | |
+  | Row1 | | |
+  | Row2 | | |
 
 
 
