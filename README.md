@@ -1,6 +1,6 @@
 # CVDS-LAB-03
 Sebastian David Blanco Rodriguez
-Laboratorio 3
+Laboratorio 3 donde se implementas las pruebas de unidad
 
 # AeroDescuentos
 
@@ -23,7 +23,7 @@ Laboratorio 3
 | #6 | edad < 0| incorrecta |
 
 
-  3. Para cada clase de equivalencia, defina un casode prueba específico, definiendo: parámetros de entrada y resultados esperados.
+  3. Para cada clase de equivalencia, defina un caso de prueba específico, definiendo: parámetros de entrada y resultados esperados.
 
   4. A partir de las clases de equivalencia identificadas en el punto 2, identifique las condiciones límite o de frontera de las mismas.
 
