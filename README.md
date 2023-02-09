@@ -10,14 +10,17 @@ Laboratorio 3
    * El descuento no es valido para la edad
    * Cuando el viaje es menor a 20 dias
    * La tarifa del vuelo es incorrecta
-   * No exista el vuelo
+
   2. En la siguiente tabla enumere un conjunto de clases de equivalencia que -según usted-creen una buena división del conjunto de datos de entrada de la función anterior:
   
 | Numero| Clase Equivalencia| Resultado correcto/incorrecto |
 |:------|-------------------|-------------------------------|
-| Row1 | | | | |
-| Row2 | | | | |
-
+| #1 | dias > 20| correcta| 
+| #2 | edad < 18 & edad > 65| correcta |
+| #3 | edad > 18 & edad < 65| incorrecta |
+| #4 | edad < 18| correcta |
+| #5 | tarifa < 0| incorrecta |
+| #6 | edad < 0| incorrecta |
 
 
   3. Para cada clase de equivalencia, defina un casode prueba específico, definiendo: parámetros de entrada y resultados esperados.
