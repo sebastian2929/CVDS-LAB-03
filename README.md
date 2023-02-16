@@ -29,5 +29,3 @@ Laboratorio 3 donde se implementas las pruebas de unidad
   4. A partir de las clases de equivalencia identificadas en el punto 2, identifique las condiciones límite o de frontera de las mismas.
 
   5. Para cada una de las condiciones de frontera anteriores, defina casos de prueba específicos.
-
-1
