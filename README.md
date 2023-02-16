@@ -25,7 +25,22 @@ Laboratorio 3 donde se implementas las pruebas de unidad
 
 
   3. Para cada clase de equivalencia, defina un caso de prueba específico, definiendo: parámetros de entrada y resultados esperados.
+  
+    -Public void EdadInvalida(9099999) --> Incorrecta 
+    -Public void edadIncorrecta(-55)  --> Incorrecta
+    -Public void TarifaVueloIncorrecto(-400) --> Incorrecta
 
   4. A partir de las clases de equivalencia identificadas en el punto 2, identifique las condiciones límite o de frontera de las mismas.
+    
+    -edad{18,65}
+    -dias{20,40}
+    -tarifa{1,10000}
 
   5. Para cada una de las condiciones de frontera anteriores, defina casos de prueba específicos.
+
+    -Public void edadIncorrecta(70) --> Incorrecta
+    -Public void diasInvalidos(10) --> Incorrecta
+    -Public void TarifaNegativa(-999) --> Incorrecta
+    -public void edadValida(30) --> Correcta
+    -Public void diasValidos(30) --> Correcta
+    -Public void tarifaValida(5000) --> Correcta
